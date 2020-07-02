@@ -1,13 +1,12 @@
 [package]
 name = "libxc-sys"
 version = "0.1.0"
+license = "Apache-2.0/MIT"
 authors = ["Junwen Li <junwen.li@dftworks.com>"]
 description = "The package provides bindings to Libxc (C)."
 homepage = "https://github.com/dftworks/libxc-sys"
-readme = "REAME.md"
+readme = "README.md"
 categories = ["external-ffi-bindings", "science"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
